@@ -8,6 +8,6 @@ In this side-project, I worked on a Reddit clone with the following functionalit
 
 * User can upvote/downvote/comment on links added by other users
 
-{Follow me on Twitter}[http://twitter.com/nikhilsamuel]
+Follow me on Twitter: http://twitter.com/nikhilsamuel
 
-{My Website}[http://nikhilsamuel.com]
+My Website: http://nikhilsamuel.com
