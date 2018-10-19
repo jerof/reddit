@@ -1,24 +1,13 @@
-# README
+# Reddit Clone using Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+In this side-project, I worked on a Reddit clone with the following functionalities:
 
-Things you may want to cover:
+* Sign-in/Sign-up using the Devise Gem
 
-* Ruby version
+* User can add a link
 
-* System dependencies
+* User can upvote/downvote/comment on links added by other users
 
-* Configuration
+{Follow me on Twitter}[http://twitter.com/nikhilsamuel]
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+{My Website}[http://nikhilsamuel.com]
